@@ -8,6 +8,8 @@ Drag single patches from JX-8P/JX-10/MKS-70, groups of patches or whole banks (u
 ## 📱 Features
 - Feature 1 - Simple Drag and Drop interface.
 
+- EXPERIMENTAL - Use at your own risk!
+
 ## 🛠 Tech Stack
 - **Language:** Swift / SwiftUI / UIKit
 - **Architecture:** MVVM / MVC

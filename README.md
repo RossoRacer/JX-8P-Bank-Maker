@@ -17,6 +17,7 @@ Drag single patches from JX-8P/JX-10/MKS-70, groups of patches or whole banks (u
 
 ### Prerequisites
 - Mac running macOS Sequoia (or latest)
+- Xcode installed (version 16 or newer)
 
 ### Installation
 1. Clone the repository:

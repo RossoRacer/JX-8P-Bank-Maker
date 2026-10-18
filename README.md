@@ -25,3 +25,6 @@ Drag single patches from JX-8P/JX-10/MKS-70, groups of patches or whole banks (u
 1. Clone the repository:
    ```bash
    git clone [ https://github.com/RossoRacer/JX-8P-Bank-Maker.git]( https://github.com/RossoRacer/JX-8P-Bank-Maker.git)
+
+
+Co-authored-by: Claude <noreply@anthropic.com>

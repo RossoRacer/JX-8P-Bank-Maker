@@ -26,5 +26,6 @@ Drag single patches from JX-8P/JX-10/MKS-70, groups of patches or whole banks (u
    ```bash
    git clone [ https://github.com/RossoRacer/JX-8P-Bank-Maker.git]( https://github.com/RossoRacer/JX-8P-Bank-Maker.git)
 
+This project is not affiliated with or endorsed by Roland or its owners.
 
 Co-authored-by: Claude <noreply@anthropic.com>
